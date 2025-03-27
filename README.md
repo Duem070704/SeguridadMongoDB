@@ -117,4 +117,4 @@ EI error ocurre porque type en PowerShell no funciona como en la línea de coman
 ![Texto alternativo](/assets/27.png)
 
 #### 📌Nota
-Este laboratorio no se pudo completar por razones externas a nosotros osea a Windows, pero se avanzo hasta esta parte.
+Este laboratorio no se pudo completar pero no se logro estableces la conexión, pero se avanzo hasta esta parte.
